@@ -1,0 +1,59 @@
+.CWO{
+    margin-bottom: 5%;
+}
+.jio img{
+    max-width: 32.5%;
+    margin: auto;
+}
+.text-box{
+    width: 100%;
+    color: #ffffff;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+ }
+.text-box h1{
+    font-size: 250%;
+    margin-top: 10;
+}
+.container {
+    display: flex;
+    flex-direction:row;
+    border-top: 1px solid;
+    border-color: #ff0000;
+    width: 100%;
+    justify-content:right;
+}
+.gallery{
+    width: 100%;
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+    margin-right: 1%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+.text_container {
+    flex:100%;
+    width: 100%;
+    margin-left: 1%;
+}
+.title {
+    color: #ffffff;
+    font-size: 300%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    text-align: center;
+}
+.description {
+    font-size: 155%;
+    color: #ffffff;
+    text-align: left;
+}
+.link_in_title{
+    text-decoration: none;
+}
